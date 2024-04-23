@@ -1,0 +1,159 @@
+html{
+margin: 0;
+padding: 0;
+}
+
+body{
+margin:0;
+padding: 0;
+}
+
+header{
+    padding-top: 20px;
+    display: flex;
+    margin:auto;
+    font-size: 15px;
+    font-weight: bol;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.lista_cabecera{
+    display: flex;
+    list-style: none;
+    
+}
+.lista_cabecera li{
+    margin-right: 40px;
+}
+
+.banner{
+    font-size: 30px;
+    background-image: url("img/banner.jpg");
+    height: 600px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    padding-left: 40px;
+    
+}
+
+.Gamepass{
+    padding-top: 170px;
+    margin-top: 40px;
+    font-size: 70px;
+    font-weight: bolder;
+    
+
+}
+
+.botones{
+    display: flex;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.UNETE{
+    margin-right: 90px;
+    background-color: #9BF00B;
+    font-weight: bold;
+    text-align: center;
+    padding: 10%;
+    white-space: nowrap;
+    font-size: 50%;
+    
+}
+
+.masinfo{
+    margin-top: 10px;
+    color: #9BF00B;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.sigue{
+    display: flex;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.sigue div{
+    margin-top: 15px;
+    margin-right: 20px;
+    margin-left: 10px;
+    font-weight: bold;
+
+}
+
+.sigue img{
+    margin-right: 20px;
+}
+
+
+footer{
+    display: flex;
+    background-color:#f2f2f2;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 10px;
+    
+}
+
+
+.fot1{
+    margin-left: 30px;
+}
+
+
+.fot1 ol{
+    list-style-type: none;
+    margin-left: 0px;
+    padding-left:0px ;
+    
+    
+}
+
+.fot1 li{
+    margin-top: 25px;
+}
+
+.fot1 div{
+    font-size: 25px;
+}
+
+
+.fot2{
+
+    margin-left: 200px;
+}
+.fot2 div{
+    font-size: 25px;
+}
+
+.fot2 li{
+
+
+    margin-top:25px;
+}
+
+.fot2 ol{
+    
+    list-style-type: none;
+    margin-left: 0px;
+    padding-left:0px ;
+}
+
+
+.fot3 {
+    margin-top: 10%;
+    display: flex;
+    margin-left: 50%;
+}
+
+
+.fot3 ol{
+    display: flex;
+    white-space: nowrap;
+    list-style: none;
+}
+
+.fot3 li{
+    margin-right: 10px;
+}
